@@ -1,0 +1,198 @@
+#imgs{
+	 background-image: url('images/22.png');
+	 background-size: cover;
+	 filter: brightness(0.9);
+	}
+#ab{
+	float: left;
+	margin-right:20px ;
+}
+#ma{
+	text-align: center;
+	font-family: sans-serif;
+}
+#kk{
+	line-height: 30px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+#lp{
+	height: 90%;
+	width:90%;
+}
+#op{
+	float: left;
+}
+#l{
+	float: right;
+}
+#kjl{
+	float: right;
+}
+#kjj{
+	float: left;
+}
+#lkk{
+	font-size: 20px;
+}
+#f{
+    width:150px  ;
+    height: 5px;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+#v{
+   width:150px ;
+   height: 5px;
+   background-color: lightgreen;
+   border-radius: 5px;
+
+ }
+ #mm{
+   width:150px ;
+   height: 5px;
+   background-color: yellow;
+   border-radius: 5px;
+
+ }
+#mmr{
+   width:150px ;
+   height: 5px;
+   background-color: red;
+   border-radius: 5px;
+
+ }
+ #hhh{
+ 	font-size: 40px;
+ 	font-family: monaco;
+ }
+ #opop{
+ 	height:600px;
+ 	width: 600px;
+ }
+ #z{
+ 	font-size: 20px;
+ 	font-family: sans-serif;
+ }
+ #oi{
+ 	color: blue;
+ }
+ #bhb{
+  	font-size: 125%;
+  	line-height: 175%;
+  	}
+#bhc{
+  	font-weight: bold;
+  	}
+ #bha{
+  	height: 90%;
+    width: 95%;
+}
+#bhd{
+    font-size: 125%;
+    line-height: 175%;
+}
+#oz{
+	   list-style-type: none;
+
+}
+#dja{
+  	background-image: url("images/2.jpg");
+  	background-size: cover;
+  	}
+#djb{
+  	font-weight: bolder;
+}
+#djc{
+  	font-size: 125%;
+  	line-height: 175%;
+}
+#djd{
+  	height: 90%;
+  	width: 90%;
+}
+#hja{
+  	font-weight: bold;
+}
+#hjb{
+  	font-size: 125%;
+  	line-height: 150%;
+}
+#ook{
+	height: 10px;
+}
+#ioo{
+	color: pink;
+}
+#g{
+  background: #6f00ff;
+  }
+#ga{
+  	font-weight: bold;
+  	line-height: 150%;
+}
+#gb{
+   border: 1px solid white;
+}
+#gd{
+  	height: 140%;
+  	width: 100%;
+  	border-radius: 5%;
+}
+#fa{
+	font-weight: bold;
+}
+#fb{
+	font-size: 125%;
+	line-height: 150%;
+}
+#g{
+	background: #6f00ff;
+}
+#ga{
+	font-weight: bold;
+	line-height: 150%;
+}
+#gb{
+    border: 1px solid white;
+}
+#gd{
+    height: 140%;
+    width: 100%;
+}
+#h{
+	background-image: url("images/3.jpg");
+	background-size: cover;
+}
+#ha{
+  	font-weight: bold;
+  	font-size: 270%;
+  	line-height: 150%;
+  	color: #fdfd96;
+}
+#hb{
+    background: #6f00ff;
+    font-weight: bold;
+}
+#i{
+   font-weight: bolder;
+}
+#abc{
+     background: #ffe4e1;
+}
+#abb{
+    font-weight: bold;
+}
+#ia{
+    font-size: 130%;
+    line-height: 170%;
+}
+#ib{
+  	font-size: 170%;
+  	line-height: 215%;
+}
+#ic{
+    font-size: 130%;
+    line-height: 215%;
+}
